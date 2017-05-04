@@ -1,3 +1,5 @@
+#!/usr/bin/python
+# -*- coding:utf-8  -*-
 """短信相关工具"""
 
 import requests
